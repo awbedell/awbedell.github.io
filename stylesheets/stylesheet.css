@@ -61,7 +61,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem 3rem 6rem; } }
+    padding: 5rem 6rem 1rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
@@ -252,6 +252,8 @@ a {
 
 .link{
   color: white;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 #links {
