@@ -74,7 +74,9 @@ a {
 .project-name {
   margin-top: 0;
   margin-bottom: 0.1rem;
-  display: block;}
+  display: block;
+  padding-left: 100px;
+}
 
 @media screen and (min-width: 64em) {
   .project-name {
