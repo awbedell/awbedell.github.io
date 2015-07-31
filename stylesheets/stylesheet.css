@@ -75,7 +75,6 @@ a {
   margin-top: 0;
   margin-bottom: 0.1rem;
   display: block;
-  padding-left: 100px;
 }
 
 @media screen and (min-width: 64em) {
@@ -97,7 +96,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .project-tagline {
-    font-size: 1.25rem; } }
+    font-size: 1.5rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .project-tagline {
@@ -252,13 +251,12 @@ a {
 .link{
   float: right;
   padding-right: 30px;
-  display: block;
+  display: inline-block;
 }
 
 #links {
   width: 100px;
   float: right;
-  font-size: 30px;
-  font-weight: bold;
+  font-size: 25px;
   color: white;
 }
