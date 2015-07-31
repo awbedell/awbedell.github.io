@@ -61,7 +61,7 @@ a {
 
 @media screen and (min-width: 64em) {
   .page-header {
-    padding: 5rem 6rem; } }
+    padding: 5rem 6rem 3rem 6rem; } }
 
 @media screen and (min-width: 42em) and (max-width: 64em) {
   .page-header {
@@ -250,7 +250,11 @@ a {
   .site-footer {
     font-size: 0.9rem; } }
 
+.link{
+  color: white;
+}
+
 #links {
-  font-size: 25px;
+  font-size: 1.25rem;
   color: white;
 }
