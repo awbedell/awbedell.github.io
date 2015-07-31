@@ -233,7 +233,9 @@ a {
   font-weight: bold; }
 
 .site-footer-credits {
-  color: #819198; }
+  color: #819198;
+  font-size: 12px;
+}
 
 @media screen and (min-width: 64em) {
   .site-footer {
@@ -250,7 +252,9 @@ a {
 .link{
   float: right;
   padding-right: 30px;
-  display: block;
+  display: block
+  font-size: 30px
+  font-weight: bold;
 }
 
 #links {
