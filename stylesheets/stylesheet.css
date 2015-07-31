@@ -253,12 +253,12 @@ a {
   float: right;
   padding-right: 30px;
   display: block;
-  font-size: 30px;
-  font-weight: bold;
-  color: white;
 }
 
 #links {
   width: 100px;
   float: right;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
 }
