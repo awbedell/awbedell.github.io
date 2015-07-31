@@ -272,7 +272,7 @@ Full-Width Styles
 }
 
 #forkme_banner {
-  display: block;
+  display: inline-block;
   position: absolute;
   top:0;
   right: 10px;
@@ -287,10 +287,10 @@ Full-Width Styles
 }
 
 #forkme_banner2 {
-  display: block;
+  display: inline-block;
   position: absolute;
   top:0;
-  right: 40px;
+  right: 110px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #fff;
@@ -302,10 +302,10 @@ Full-Width Styles
 }
 
 #forkme_banner3 {
-  display: block;
+  display: inline-block;
   position: absolute;
   top:0;
-  right: 70px;
+  right: 210px;
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #fff;
