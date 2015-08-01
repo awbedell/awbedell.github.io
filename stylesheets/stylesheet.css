@@ -264,10 +264,9 @@ a {
   height: auto;
   max-height: 300px;
   max-width: 300px;
+  display: block;
 }
 
 .project-container {
-  width: 300px;
-  height: 300px;
   display: inline-block;
 }
