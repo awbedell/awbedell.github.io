@@ -259,3 +259,12 @@ a {
 #links {
   font-size: 1.25rem;
 }
+
+.project {
+  height: 100%;
+}
+
+.project-container {
+  width: 100px;
+  height: 100px;
+}
