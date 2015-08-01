@@ -261,7 +261,7 @@ a {
 }
 
 .project {
-  height: 100%;
+  height: auto;
 }
 
 .project-container {
