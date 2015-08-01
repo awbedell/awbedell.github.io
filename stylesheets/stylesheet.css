@@ -16,7 +16,7 @@ a {
     font-style: italic; }
 
 p {
-  font-size: 10px;
+  font-size: 14px;
 }
 
 .btn {
@@ -114,8 +114,6 @@ p {
 
 .main-content :first-child {
   margin-top: 0; }
-.main-content img {
-  max-width: 100%; }
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -266,11 +264,13 @@ p {
 
 .project {
   height: auto;
-  max-height: 300px;
-  max-width: 300px;
+  max-height: 200px;
+  max-width: 200px;
   display: block;
 }
 
 .project-container {
   display: inline-block;
+  max-height: 200px;
+  max-width: 200px;
 }
