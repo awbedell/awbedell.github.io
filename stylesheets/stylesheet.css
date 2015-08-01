@@ -271,6 +271,6 @@ p {
 
 .project-container {
   display: inline-block;
-  max-height: 200px;
   max-width: 200px;
+  padding: 20px;
 }
