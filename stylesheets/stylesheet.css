@@ -274,3 +274,7 @@ p {
   max-width: 200px;
   margin: 20px;
 }
+
+#projects-container {
+  text-align: center;
+}
