@@ -278,3 +278,8 @@ p {
 #projects-container {
   text-align: center;
 }
+
+#unit {
+  width: 800px;
+  height: 800px;
+}
